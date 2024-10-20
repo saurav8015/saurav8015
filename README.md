@@ -19,5 +19,5 @@ A web application delivering multiple choice question . Built with **HTML**, **C
 
 - **Email**: varma.saurav8015@gmail.com
 - **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **Linkedin**: [https://www.linkedin.com/in/saurav-kumar-154176320]
+- **Linkedin**: https://www.linkedin.com/in/saurav-kumar-154176320
 I am open to collaboration, so feel free to reach out to me for any interesting opportunities!
